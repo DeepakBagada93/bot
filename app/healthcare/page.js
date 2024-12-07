@@ -179,7 +179,7 @@ export default function Healthcare() {
                 className="w-full h-48 p-4 border border-gray-300 rounded-lg"
               />
               <p className="mt-4 text-gray-600">
-                Copy the script above and paste it into your website's HTML to render the chatbot.
+                Copy the script above and paste it into your websites HTML to render the chatbot.
               </p>
             </div>
           )}
